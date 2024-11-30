@@ -1,0 +1,37 @@
+// カスタムスタイル
+@import "minimal-mistakes"; // Minimal Mistakesのベーススタイルをインポート
+
+// カスタマイズスタイルをここに追加
+
+// サイドバーとメインコンテンツの幅を調整
+.layout--default .main {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+.layout--default .main .content {
+   flex: 1;
+   max-width: 100%;
+   padding: 16px;
+}
+
+.layout--default .main .sidebar {
+   flex: 0 0 300px;
+   margin-left: 16px;
+}
+
+/* カードを2カラムに並べる（Flexbox版） */
+.post-cards {
+   display: flex;
+   flex-wrap: wrap; /* カードが2行目に自動的に折り返される */
+   gap: 16px; /* カード同士の隙間 */
+}
+
+.post-card {
+   flex: 1 1 calc(50% - 16px); /* 50%幅 - カード間の余白 */
+   max-width: calc(50% - 16px); /* 横幅の上限を設定 */
+}
+
+
+
