@@ -24,7 +24,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "DIY Geometry Art"
 description              : "DIY Geometry Art site."
 url                      : # the base hostname & protocol for your site e.g. "https://CLOTHCHORD.github.io"
-baseurl                  : # the subpath of your site, e.g. ""
+baseurl                  : # the subpath of your site, e.g. "https://www.diygeometryart.com/"
 repository               : # GitHub CLOTHCHORD/repo-name e.g. "Geometric_Art"
 
 
