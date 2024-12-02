@@ -3,6 +3,8 @@
    ========================================================================== */
 
 .page__footer {
+  padding: 20px; /* 内側の余白 */
+
   @include clearfix;
   float: inline-start;
   margin-inline: 0;
@@ -13,7 +15,6 @@
   animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
-  background-color: $footer-background-color;
 
   footer {
     @include clearfix;

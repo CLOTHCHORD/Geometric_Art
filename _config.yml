@@ -25,7 +25,7 @@ name                     : "DIY Geometry Art"
 description              : "DIY Geometry Art site."
 url                      : # the base hostname & protocol for your site e.g. "https://CLOTHCHORD.github.io"
 baseurl                  : # the subpath of your site, e.g. ""
-repository               : # GitHub username/repo-name e.g. ""
+repository               : # GitHub CLOTHCHORD/repo-name e.g. "Geometric_Art"
 
 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -34,8 +34,8 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
-copyright                : # "copyright" name, defaults to site.title
-copyright_url            : # "copyright" URL, defaults to site.url
+copyright                : # "DIY Geometry Art" , defaults to site.title
+copyright_url            : # "https://diygeometryart.com" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -252,7 +252,7 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
   category: 'posts'
-  tag: ''
+  tag: 
   locale: ''
   trail:
     before: 2

@@ -1,5 +1,5 @@
 main:
-  - title: "About"
+  - title: "DIY Geometry Artとは？"
     url: "/about/"
 
 docs:
@@ -8,11 +8,11 @@ docs:
   - title: CONTENTS
     children:
       - title: "幾何学アートの基本ガイド"
-        url: /_pages/Geometric_Art_Wall_Decor_DIY/
+        url: /_pages/geometric-art-basic-guide/
       - title: "黄金比を使った美しいデザインの作り方"
-        url: /_pages/Golden_Ratio_Geometric_Art/
+        url: /_pages/golden-ratio-art-tutorial/
       - title: "初心者でも簡単！自宅で作るDIY幾何学アート"
-        url: /_pages/DIY_Geometric_Art_Home/
-  - title: "このサイトについて"
+        url: /_pages/diy-geometric-art-beginners/
+  - title: "DIY Geometry Artとは？"
     url: "/about/"
 

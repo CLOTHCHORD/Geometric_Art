@@ -4,37 +4,14 @@ search: false
 ---
 
 
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import "custom"; // カスタムスタイルを読み込む
 
-.post-card {
-    background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    margin-bottom: 16px;
-    padding: 16px;
-    display: flex;
-    flex-direction: column;
-}
 
-.post-card img {
-    border-radius: 8px;
-    max-width: 100%;
-    margin-bottom: 8px;
-}
-
-.post-card h2 {
-    font-size: 1.25rem;
-    margin: 8px 0;
-}
-
-.post-card p {
-    font-size: 1rem;
-    color: #666;
-}
 
 body {
     background-color: #FFFDF5;
@@ -44,10 +21,88 @@ body {
 
 
 a {
-    color: #6200ea; /* Primary Color */
+    color: #1020d0; /* Primary Color */
 }
 
 a:hover {
-    color: #3700b3; /* Darker Shade */
+    color: #1020d0; /* Darker Shade */
 }
 
+.page-content {
+    padding: 10px;
+    display: block; /* 必ずブロックとして表示 */
+    text-align: left; /* 必要に応じて中央揃えに変更 */
+  }
+  
+  .page-content h2 {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333; /* タイトルの色 */
+  }
+  
+  .page-content p {
+    font-size: 0.9em;
+    color: #666; /* 説明文の色 */
+  }
+
+  
+.page-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  
+  .page-item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+  }
+  
+  .page-item:hover {
+    transform: translateY(-2px);
+
+  }
+  
+  .page-thumbnail {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .page-content {
+    padding: 20px;
+  }
+  
+  .page-content h2 {
+    font-size: 1em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .page-content p {
+    font-size: 0.8em;
+    line-height: 140%;
+    color: #666;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .page-list {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  

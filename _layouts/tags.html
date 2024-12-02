@@ -1,7 +1,16 @@
 ---
-layout: archive
+layout: default
+title: "All Tags"
+permalink: /tags/
 ---
 
-{{ content }}
+<h1>All Tags</h1>
 
-{% include posts-taxonomy.html taxonomies=site.tags %}
+<ul>
+  {% assign all_tags = site.pages | map: "tags" | compact | uniq %}
+  {% for tag in all_tags %}
+    <li>
+      <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/">{{ tag }}</a>
+    </li>
+  {% endfor %}
+</ul>
