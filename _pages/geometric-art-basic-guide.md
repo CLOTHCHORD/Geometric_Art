@@ -20,6 +20,7 @@ sidebar:
 thumbnail: "/assets/images/geometric-art-basic-guide-main.png"
 featured: true
 date:   2024-12-03 00:00:00 +0900
+categories: ["幾何学", "DIY", "アート"]
 ---
 
 ![幾何学アートの基本ガイドのイメージ画像]({{ "/assets/images/geometric-art-basic-guide-main.png" | relative_url }})

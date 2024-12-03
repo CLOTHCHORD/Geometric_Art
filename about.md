@@ -6,11 +6,6 @@ permalink: /about/
 classes: wide
 excerpt: "DIY Geometry Artとは？ 幾何学アートの魅力と始め方"
 
-sidebar:
-  nav:
-
-    - docs
-
 thumbnail: "/assets/images/diy-geometry-art-thumbnail.png"
 
 ---

@@ -1,11 +1,18 @@
 main:
   - title: "DIY Geometry Artとは？"
     url: "/about/"
+  - title: "基本の幾何学"
+    url: "/categories/geometric/"
+
+
+
+
 
 docs:
-  - title: "Home"
-    url: "/"
-  - title: CONTENTS
+
+  - title: 基本の幾何学
+    url: "/categories/geometric/"
+
     children:
       - title: "幾何学アートの基本ガイド"
         url: /_pages/geometric-art-basic-guide/
@@ -13,6 +20,4 @@ docs:
         url: /_pages/golden-ratio-art-tutorial/
       - title: "初心者でも簡単！自宅で作るDIY幾何学アート"
         url: /_pages/diy-geometric-art-beginners/
-  - title: "DIY Geometry Artとは？"
-    url: "/about/"
 

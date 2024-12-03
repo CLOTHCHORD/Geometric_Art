@@ -18,7 +18,7 @@ sidebar:
 
 thumbnail: "/assets/images/img10.png"
 featured: false
-categories: ["幾何学", "DIY", "アート"]
+categories: ["基本の幾何学"]
 
 ---
 

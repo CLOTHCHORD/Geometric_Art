@@ -2,6 +2,7 @@
    NAVIGATION
    ========================================================================== */
 
+
 /*
    Breadcrumb navigation links
    ========================================================================== */
@@ -168,6 +169,7 @@
      ========================================================================== */
 
 .greedy-nav {
+  
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -339,10 +341,10 @@
 
 .nav__list {
   margin-bottom: 1.5em;
-
   input[type="checkbox"],
   label {
     display: none;
+    
   }
 
   @include breakpoint(max-width $large - 1px) {
@@ -436,6 +438,7 @@
   }
 }
 
+
 .nav__list .nav__items {
   margin: 0;
   font-size: 1.25rem;
@@ -448,7 +451,7 @@
     margin-inline-start: -0.5em;
     padding-inline: 0.5em;
     font-weight: bold;
-    background-color: #fdfdfd;
+    background-color: #fff;
     text-decoration:underline;
   
   }
@@ -572,3 +575,5 @@
     padding-inline-start: 3.25rem;
   }
 }
+
+

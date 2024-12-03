@@ -4,11 +4,6 @@ classes: wide
 title: "DIY Geometry Art"
 permalink: /
 
-
-sidebar:
-  nav:
-
-    - docs
 ---
 
 
