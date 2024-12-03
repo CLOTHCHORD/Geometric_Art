@@ -1,11 +1,11 @@
 ---
-layout: single
 classes: wide
+layout: single
 title: "幾何学アートの基本ガイド | 初心者におすすめの魅力と始め方"
 permalink: /_pages/geometric-art-basic-guide/
 excerpt: 幾何学アートとは？初心者でもわかる魅力と基本的な始め方を解説します。自然界のパターンや簡単なプロジェクトで、幾何学アートの世界を楽しみましょう！
 description: 初心者向けDIY幾何学アートガイド。簡単な道具で自宅で楽しめるプロジェクトを紹介！
-
+categories: ["基本の幾何学"]
 
 toc: true
 toc_label: "目次"
@@ -20,7 +20,7 @@ sidebar:
 thumbnail: "/assets/images/geometric-art-basic-guide-main.png"
 featured: true
 date:   2024-12-03 00:00:00 +0900
-categories: ["幾何学", "DIY", "アート"]
+
 ---
 
 ![幾何学アートの基本ガイドのイメージ画像]({{ "/assets/images/geometric-art-basic-guide-main.png" | relative_url }})

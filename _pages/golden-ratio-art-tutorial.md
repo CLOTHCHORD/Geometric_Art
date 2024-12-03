@@ -19,7 +19,8 @@ sidebar:
 thumbnail: "/assets/images/beautiful-design-using-the-golden-ratio.png"
 featured: true
 date:   2024-12-03 00:00:00 +0900
-categories: ["幾何学", "DIY", "アート"]
+
+categories: ["基本の幾何学"]
 ---
 
 ![黄金比を使った美しいデザインのイメージ]({{ "/assets/images/beautiful-design-using-the-golden-ratio.png" | relative_url }})
