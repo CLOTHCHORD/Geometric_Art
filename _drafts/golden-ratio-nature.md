@@ -26,14 +26,20 @@ featured: true
 ## 自然界に見る黄金比
 
 - **貝殻**: オウムガイの殻には完璧な黄金螺旋が見られる。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
+
 - **植物**: 葉の配置や花びらの数が黄金比に従う例が多数。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
 
 ---
 
 ## 幾何学模様の自然界での例
 
 - **蜂の巣**: 正六角形の美しい配置。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
+
 - **雪の結晶**: 六角形対称の幾何学パターン。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
 
 ---
 
@@ -41,7 +47,10 @@ featured: true
 
 自然界の黄金比や幾何学模様を再現する方法を紹介。
 - **黄金比コンパスを使った螺旋の描き方**
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
+
 - **蜂の巣パターンを幾何学アートに取り入れる**
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
 
 ---
 

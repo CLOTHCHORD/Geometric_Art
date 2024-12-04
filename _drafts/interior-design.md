@@ -35,15 +35,24 @@ featured: true
 
 ### 1. 壁紙やアートパネル
 - 幾何学模様をプリントした壁紙をアクセントウォールに。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
+
 - DIYで作ったアートパネルを飾る。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
 
 ### 2. 家具や小物で取り入れる
 - 幾何学模様を取り入れたクッションやランプシェード。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
+
 - DIYでペイントしたサイドテーブル。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
 
 ### 3. カラーパレットの選択
 - モノトーンでシックに。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
+
 - ゴールドやシルバーを使って高級感をプラス。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
 
 ---
 
@@ -51,8 +60,11 @@ featured: true
 
 - **DIY幾何学ランプシェード**:
   - 紙や布に幾何学模様を描き、ランプに取り付ける。
+  ![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
+
 - **幾何学アートのクッション**:
   - シンプルなクッションカバーに幾何学模様をステンシルで描く。
+  ![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
 
 ---
 

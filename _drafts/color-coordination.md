@@ -35,12 +35,18 @@ featured: true
 ### 1. カラーホイールを活用
 - **補色（Complementary Colors）**:
   - 相反する色（例: 青とオレンジ）を組み合わせてコントラストを強調。
+  ![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
+
 - **類似色（Analogous Colors）**:
   - カラーホイールで隣り合う色を使用し、調和の取れたデザインに。
+  ![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
 
 ### 2. 色彩のバランス
 - 暖色系（赤、オレンジ、黄）と寒色系（青、緑、紫）のバランスを取る。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
+
 - 明度（明るさ）と彩度（鮮やかさ）の調整で立体感を演出。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
 
 ---
 
@@ -52,6 +58,7 @@ featured: true
 - **黄色**: 幸福、創造性。
 
 具体例: 落ち着いた幾何学模様には青や緑を、目を引く作品には赤や黄色を選択。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
 
 ---
 
@@ -59,8 +66,13 @@ featured: true
 
 ### おすすめツール
 - **Adobe Color**: 自動でカラーパレットを生成。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
+
 - **Coolors**: 手軽に使える無料ツール。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
+
 - **Color Hunt**: トレンドに合わせたカラーパレットを提供。
+![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})
 
 ---
 
