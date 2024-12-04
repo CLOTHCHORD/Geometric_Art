@@ -9,6 +9,7 @@ excerpt: "DIY Geometry Artとは？ 幾何学アートの魅力と始め方"
 thumbnail: "/assets/images/diy-geometry-art-thumbnail.png"
 
 ---
+![DIY-Geometry-Artのメインイメージです]({{ "/assets/images/diy-geometry-art-main-img.png" | relative_url }})
 
 幾何学アートの魅力とDIY Geometry Artの使命について
 
