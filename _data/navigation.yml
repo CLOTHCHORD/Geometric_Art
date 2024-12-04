@@ -1,7 +1,7 @@
 main:
   - title: "DIY Geometry Artとは？"
     url: "/about/"
-  - title: "基本の幾何学"
+  - title: "基本の幾何学の作り方"
     url: "/categories/geometric/"
 
 
