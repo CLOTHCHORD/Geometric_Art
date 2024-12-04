@@ -17,8 +17,8 @@ var store = [{
         "url": "/_pages/diy-geometric-art-beginners/",
         "teaser": "/assets/images/500x300.png"
       },{
-        "title": "CONTENTS",
-        "excerpt":" ","categories": ["CONTENTS"],
+        "title": "記事の一覧",
+        "excerpt":"DIY Geometry Artの記事の一覧です。    ","categories": ["CONTENTS"],
         "tags": [],
         "url": "/categories/diy-geometric-cont/",
         "teaser": "/assets/images/500x300.png"
