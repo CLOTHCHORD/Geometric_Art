@@ -117,7 +117,7 @@ categories: ["CONTENTS"]
 
 
 
-## s次のステップ
+## 次のステップ
 さらに幾何学アートを探求したい方は、[幾何学アートの基本ガイド]({{ "/_pages/geometric-art-basic-guide/" | relative_url }}) をご覧ください！
 
 

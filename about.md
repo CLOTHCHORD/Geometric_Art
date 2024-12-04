@@ -51,7 +51,7 @@ thumbnail: "/assets/images/diy-geometry-art-thumbnail.png"
 運営者は、幾何学デザインの制作とともに、スピリチュアルな幾何学の意味やそのデザインへの応用を探求しています。このサイトは、長年の学びと創作の成果を共有する場です。
 
 ---
-
+<!-- 
 ## お問い合わせ
 
 皆さんの作品や質問、または今後取り上げてほしいトピックの提案など、ぜひお気軽にご連絡ください。
@@ -59,5 +59,5 @@ thumbnail: "/assets/images/diy-geometry-art-thumbnail.png"
 - **メール:** contact@diygeometryart.com
 - **Instagram:** [@diygeometryart](https://www.instagram.com/diygeometryart)
 - **Twitter:** [@diygeometryart](https://twitter.com/diygeometryart)
-
+-->
 ---
