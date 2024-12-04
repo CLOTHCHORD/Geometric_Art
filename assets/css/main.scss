@@ -108,3 +108,23 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+
+.affiliate-box {
+  background-color: #f9f9f9;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+.affiliate-box h3 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+.affiliate-box ul {
+  list-style: none;
+  padding: 0;
+}
+.affiliate-box ul li {
+  margin: 10px 0;
+}

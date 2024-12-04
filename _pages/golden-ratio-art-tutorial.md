@@ -86,6 +86,10 @@ categories: ["基本の幾何学の作り方"]
 ![黄金比を使ったシンプルなデザインステップ]({{ "/assets/images/design-steps-or-the-golden-ratio.png" | relative_url }})
 
 
+**おすすめツール:**  
+黄金比を作るなら、以下のツールを使うと便利です。この[黄金比ビューファインダー]({{ "https://amzn.to/4f3YhmX" | relative_url }}) は、黄金比のイメージを掴むために最適でおすすめです。
+{: .notice--warning}
+
 ### ステップ3: カラーリングと装飾
 
 完成したパターンに色を加えることで、視覚的な魅力を引き立てます。  
