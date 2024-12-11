@@ -5,7 +5,10 @@ title: "幾何学アートの基本ガイド | 初心者におすすめの魅力
 permalink: /_pages/geometric-art-basic-guide/
 excerpt: 幾何学アートとは？初心者でもわかる魅力と基本的な始め方を解説します。自然界のパターンや簡単なプロジェクトで、幾何学アートの世界を楽しみましょう！
 description: 初心者向けDIY幾何学アートガイド。簡単な道具で自宅で楽しめるプロジェクトを紹介！
-categories: ["CONTENTS"]
+
+categories:
+  - 幾何学アート
+
 
 toc: true
 toc_label: "目次"

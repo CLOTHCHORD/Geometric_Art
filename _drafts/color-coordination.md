@@ -6,7 +6,7 @@ title: "プロが教える幾何学アートの配色テクニック"
 excerpt: プロが教える幾何学アートの配色テクニック
 description: プロが教える幾何学アートの配色テクニック
 
-permalink: /_drafts/color-coordination/
+permalink: /_pages/color-coordination/
 
 toc: true
 toc_label: "目次"
@@ -19,7 +19,10 @@ sidebar:
     - docs
 
 thumbnail: "/assets/images/beautiful-design-using-the-golden-ratio.png"
-featured: true
+draft: true
+
+categories: ["CONTENTS"]
+
 ---
 
 ![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})

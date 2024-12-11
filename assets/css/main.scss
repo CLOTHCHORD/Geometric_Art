@@ -37,7 +37,7 @@ a:hover {
 }
 
 .page-content h2 {
-  font-size: 1.2em;
+  font-size: 1em;
   margin: 10px 0;
   color: #333;
   /* タイトルの色 */
@@ -52,7 +52,7 @@ a:hover {
 
 .page-list {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 20px;
 }
 
@@ -87,9 +87,16 @@ a:hover {
 
 .page-content h2 {
   font-size: 1em;
-  margin: 10px 0;
+  margin: 20px 15;
   color: #333;
 }
+
+.page-content h3 {
+
+  margin: 0px 0;
+  color: #333;
+}
+
 
 .page-content p {
   font-size: 0.8em;
@@ -128,3 +135,30 @@ img {
 .affiliate-box ul li {
   margin: 10px 0;
 }
+
+
+
+.category-page {
+  background-color: #f9f9f9;
+
+  .category-section {
+    margin-bottom: 2em;
+    padding-bottom: 1em;
+
+  .category-title {
+    font-size: 2em;
+    margin: 120px 10px 80px;
+    color: #333;
+
+  }
+  
+  .page-content h3 {
+    font-size: 0.9em;
+    margin: 0px 0;
+    color: #333;
+  }
+
+}
+
+}
+

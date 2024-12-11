@@ -1,8 +1,12 @@
 main:
-  - title: "DIY Geometry Artとは？"
+  - title: "Diy Geometry Artとは？"
     url: "/about/"
-  - title: "記事の一覧"
-    url: "/categories/diy-geometric-cont/"
+  - title: "幾何学アート"
+    url: "/categories/geometric-art/"
+  - title: "AIツール"
+    url: "/categories/ai-tool/"
+  - title: "すべての記事"
+    url: "/categories/all/"
 
 
 
@@ -10,8 +14,8 @@ main:
 
 docs:
 
-  - title: 記事の一覧
-    url: "/categories/diy-geometric-cont/"
+  - title: 幾何学アート
+    url: "/categories/geometric-art/"
 
     children:
       - title: "幾何学アートの基本ガイド"
@@ -21,3 +25,9 @@ docs:
       - title: "初心者でも簡単！自宅で作るDIY幾何学アート"
         url: /_pages/diy-geometric-art-beginners/
 
+  - title: AIツール
+    url: "/categories/ai-tool/"
+
+    children:
+      - title: "初心者でも簡単！AIツールで幾何学アートを作る3つの方法"
+        url: /_pages/ai-geometric-art-basic-guide/

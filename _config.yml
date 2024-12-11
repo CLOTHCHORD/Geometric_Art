@@ -25,14 +25,14 @@ name                     : ""
 description              : "Diy Geometry Art site."
 url                      : # the base hostname & protocol for your site e.g. "https://CLOTHCHORD.github.io"
 baseurl                  : # the subpath of your site, e.g. "https://www.diygeometryart.com/"
-repository               : # GitHub CLOTHCHORD/repo-name e.g. "JEANITHERE"
+repository               : # GitHub CLOTHCHORD/repo-name e.g. "Diy Geometry Art"
 teaser                   : /assets/images/500x300.png
 logo                     : /assets/images/88x88.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
-copyright                : # "JEAN ITHERE" , defaults to site.title
+copyright                : # "Diy Geometry Art" , defaults to site.title
 copyright_url            : # "https://diygeometryart.com" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -115,7 +115,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "JEAN ITHERE"
+  name             : "Diy Geometry Art"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"

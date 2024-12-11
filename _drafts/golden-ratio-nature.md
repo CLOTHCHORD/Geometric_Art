@@ -6,7 +6,7 @@ title: "自然界に隠された黄金比と幾何学模様"
 excerpt: 自然界に隠された黄金比と幾何学模様
 description: 自然界に隠された黄金比と幾何学模様
 
-permalink: /_drafts/golden-ratio-nature/
+permalink: /_pages/golden-ratio-nature/
 toc: true
 toc_label: "目次"
 toc_icon: "columns"
@@ -18,7 +18,9 @@ sidebar:
     - docs
 
 thumbnail: "/assets/images/beautiful-design-using-the-golden-ratio.png"
-featured: true
+draft: true
+
+categories: ["CONTENTS"]
 
 ---
 ![サンプル画像1200-675]({{ "/assets/images/sample-img.png" | relative_url }})

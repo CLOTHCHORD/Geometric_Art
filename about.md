@@ -1,25 +1,25 @@
 ---
 layout: single
-title: "DIY Geometry Artとは？"
+title: "Diy Geometry Artについて"
 permalink: /about/
 
 classes: wide
-excerpt: "DIY Geometry Artとは？ 幾何学アートの魅力と始め方"
+excerpt: " Diy Geometry Artとは？ 幾何学アートの魅力と始め方"
 
 thumbnail: "/assets/images/diy-geometry-art-thumbnail.png"
 
 ---
-![DIY-Geometry-Artのメインイメージです]({{ "/assets/images/diy-geometry-art-main-img.png" | relative_url }})
+![Diy Geometry Artのメインイメージです]({{ "/assets/images/diy-geometry-art-main-img.png" | relative_url }})
 
-幾何学アートの魅力とDIY Geometry Artの使命について
+幾何学アートの魅力と Diy Geometry Artの使命について
 
-**DIY Geometry Art**は、幾何学アートの美しさとシンプルさを探求し、どなたかの創造性の向上の一助となる場を目指しています。  
+**Diy Geometry Art**は、幾何学アートの美しさとシンプルさを探求し、どなたかの創造性の向上の一助となる場を目指しています。  
 
 複雑な数学的パターンと、手軽に挑戦できるアートをつなぐ架け橋となることを目指しています。  
 
 ---
 
-## なぜDIY Geometry Artを作ったのか
+## なぜDiy Geometry Artを作ったのか
 私自身が幾何学や黄金比などの神秘に触れ、自分を肯定し、世界を肯定する体験を得たのが直接のきっかけです。  
 
 昔の私のような感覚の人が、少しでも自分を肯定し世界を肯定できるようになる。  
@@ -57,7 +57,7 @@ thumbnail: "/assets/images/diy-geometry-art-thumbnail.png"
 皆さんの作品や質問、または今後取り上げてほしいトピックの提案など、ぜひお気軽にご連絡ください。
 
 - **メール:** contact@diygeometryart.com
-- **Instagram:** [@diygeometryart](https://www.instagram.com/diygeometryart)
+- **Instagram:** [@diygeometryart](https://www.instagram.com/jean_ithere/)
 - **Twitter:** [@diygeometryart](https://twitter.com/diygeometryart)
 -->
 ---

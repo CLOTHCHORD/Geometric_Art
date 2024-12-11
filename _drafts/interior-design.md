@@ -6,7 +6,7 @@ title: "幾何学デザインを活かしたインテリアの作り方"
 excerpt: 幾何学デザインを活かしたインテリアの作り方
 description: 幾何学デザインを活かしたインテリアの作り方
 
-permalink: /_drafts/interior-design/
+permalink: /_pages/interior-design/
 
 toc: true
 toc_label: "目次"
@@ -19,7 +19,9 @@ sidebar:
     - docs
 
 thumbnail: "/assets/images/beautiful-design-using-the-golden-ratio.png"
-featured: true
+draft: true
+
+categories: ["CONTENTS"]
 
 ---
 

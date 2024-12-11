@@ -6,6 +6,10 @@ permalink: /_pages/golden-ratio-art-tutorial/
 
 excerpt: 黄金比を活用した美しいデザインの制作ガイド。初心者でも簡単に挑戦できる、自然界の法則を取り入れたアートの作り方を解説！
 
+
+categories:
+  - 幾何学アート
+
 toc: true
 toc_label: "目次"
 toc_icon: "columns"
@@ -20,7 +24,6 @@ thumbnail: "/assets/images/beautiful-design-using-the-golden-ratio.png"
 featured: true
 date:   2024-12-03 00:00:00 +0900
 
-categories: ["CONTENTS"]
 ---
 
 ![黄金比を使った美しいデザインのイメージ]({{ "/assets/images/beautiful-design-using-the-golden-ratio.png" | relative_url }})

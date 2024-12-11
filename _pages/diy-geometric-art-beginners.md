@@ -6,7 +6,9 @@ permalink: /_pages/diy-geometric-art-beginners/
 
 excerpt: 幾何学アートは、美しいデザインを簡単に作り出せるアートフォームです。本記事では、自宅で手軽に挑戦できるDIY幾何学アートの制作方法をご紹介します。
 description: 幾何学アートの基本ガイドを網羅したページです。初心者向けの情報が満載！
-categories: ["CONTENTS"]
+
+categories:
+  - 幾何学アート
 
 toc: true
 toc_label: "目次"

@@ -1,25 +1,26 @@
 ---
-layout: home
+layout: archive
 ---
 
 {{ content }}
 
-
 <div class="main">
 
-  <!-- メインコンテンツ -->
+
   <div class="page-list">
+    {% assign current_category = page.category %}
     {% for page in site.pages %}
-    {% if page.layout == "single" and page.featured %}
-    <a href="{{ page.url | relative_url }}" class="page-item">
-      <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}" class="page-thumbnail">
-      <div class="page-content">
-        <h2>{{ page.title }}</h2> <!-- タイトルを表示 -->
-        <p>{{ page.excerpt }}</p> <!-- 説明文を表示 -->
-      </div>
-    </a>
-    {% endif %}
+    {% if page.layout == "single" and page.categories contains current_category %}
+        <a href="{{ page.url | relative_url }}" class="page-item">
+          {% if page.thumbnail %}
+            <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}" class="page-thumbnail">
+          {% endif %}
+          <div class="page-content">
+            <h3>{{ page.title }}</h3>
+            <p>{{ page.excerpt }}</p>
+          </div>
+        </a>
+      {% endif %}
     {% endfor %}
   </div>
-
 </div>

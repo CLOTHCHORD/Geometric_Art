@@ -1,0 +1,38 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<body class="category-page">
+<div class="main">
+
+  <!-- カテゴリリスト -->
+  <div class="category-list">
+    {% assign unique_categories = site.pages | map: 'categories' | compact | uniq | sort %}
+    {% for category in unique_categories %}
+      <div class="category-section">
+        <h2 class="category-title">{{ category }}</h2> <!-- 子カテゴリのタイトルを表示 -->
+
+        <!-- 子カテゴリに関連するページをリスト表示 -->
+        <div class="page-list">
+          {% for page in site.pages %}
+            {% if page.categories contains category %}
+              <a href="{{ page.url | relative_url }}" class="page-item">
+                {% if page.thumbnail %}
+                  <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}" class="page-thumbnail">
+                {% endif %}
+                <div class="page-content">
+                  <h3>{{ page.title }}</h3> <!-- ページタイトルを表示 -->
+                  <p>{{ page.excerpt }}</p> <!-- ページ説明文を表示 -->
+                </div>
+              </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  
+</div>
+</body>
